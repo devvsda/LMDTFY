@@ -1,0 +1,8 @@
+{
+  "zendesk_details" : {
+    "url" : "URL",
+    "username" : "USERNAME",
+    "password" : "PASSWORD",
+    "access_token" : "AUTHORIZATION TOKEN, IF ANY"
+  }
+}
